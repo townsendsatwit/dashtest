@@ -3,5 +3,4 @@ dash-bootstrap-components
 pandas
 requests
 plotly
-time
 gunicorn
