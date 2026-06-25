@@ -1,6 +1,6 @@
-requests
-pandas
-time
 dash
-dash_bootstrap_components
+dash-bootstrap-components
+pandas
+requests
 plotly
+gunicorn
